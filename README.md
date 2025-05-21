@@ -1,9 +1,6 @@
 <P> <big>  MINHAS REDES</big> </P>
 
-
-
-<img src="![image](https://github.com/user-attachments/assets/027f2e07-11b7-4bb9-91c7-b36ddc1dee5e")
-)
+![image](https://github.com/user-attachments/assets/e69e54ab-9b72-4e4d-b13c-0220d8d9be09)
 
 
 
