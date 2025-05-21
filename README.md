@@ -2,7 +2,8 @@
 
 
 
-<img src="https://tenor.com/pt-BR/view/roblox-black-slideshow-pose-fresh-gif-26120986" alt="Computer man" style="width:48px;height:48px;">
+<img src="">![image](https://github.com/user-attachments/assets/64e55593-640a-4309-8da9-4f5d9fb75ede)
+
 
 
 <a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white"></a>     
