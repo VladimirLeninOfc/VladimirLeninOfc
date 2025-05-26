@@ -25,5 +25,7 @@
 
 ![PeterGriffinCatchingAVibeSkateboardGIF](https://github.com/user-attachments/assets/6b327220-2eeb-4e0b-a27e-3a9a9bb4bb62)
 
+![LennartLennartMobilGIF (2)](https://github.com/user-attachments/assets/427d1158-1c90-4c38-817c-8913d691f4a0)
+
 
 
