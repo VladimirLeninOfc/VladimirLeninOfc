@@ -1,7 +1,10 @@
-👋 Olá, meu nome é VITOR \n
-👀 Meu e-mail é o.vitor02@escola.pr.gov.br \n
-🌱 Eu estou interessado em aprender a programar novas linguagens \n
-💞️ Eu estou aprendendo a programar em SCRATCH e HTML \n
+👋 Olá, meu nome é VITOR
+
+👀 Meu e-mail é o.vitor02@escola.pr.gov.br 
+
+🌱 Eu estou interessado em aprender a programar novas linguagens 
+
+💞️ Eu estou aprendendo a programar em SCRATCH e HTML 
 
 
 
