@@ -1,6 +1,8 @@
-<P> <big>  MINHAS REDES</big> </P>
+👋 Olá, meu nome é VITOR
+👀 Meu e-mail é o.vitor02@escola.pr.gov.br
+🌱 Eu estou interessado em aprender a programar novas linguagens
+💞️ Eu estou aprendendo a programar em SCRATCH e HTML
 
-![image](https://github.com/user-attachments/assets/e69e54ab-9b72-4e4d-b13c-0220d8d9be09)     ![image](https://github.com/user-attachments/assets/93950115-674e-43a0-a58b-bb6e3b14764b)
 
 
 
